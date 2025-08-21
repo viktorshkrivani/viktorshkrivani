@@ -10,6 +10,7 @@
   <span style="background-color: yellow; color: black; padding: 4px 8px; border-radius: 6px;">
     ⚡ This text is on a yellow background ⚡
   </span>
+  <span style="color: red;">Red text</span>
 </p>
 
 <!--
