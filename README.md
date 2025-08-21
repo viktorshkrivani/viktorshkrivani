@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Infinite%20Loop%20Looping%20GIF%20by%20CmdrKitten.gif" width="100%" />
+  <img src="assets/loop.gif" width="100%" />
 </p>
 
 ## Hi there 👋
