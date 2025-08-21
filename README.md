@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/loop.gif" width="100%" />
+  <img src="assets/front.gif" width="100%" />
 </p>
 
 ## Hi there 👋
