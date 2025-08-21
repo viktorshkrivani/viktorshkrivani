@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Loop Demo](assets/Infinite Loop Looping GIF by CmdrKitten.gi)
+![Loop Demo](https://raw.githubusercontent.com/viktorshkrivani/viktorshkrivani/main/assets/loop.gif)
+
 
 <!--
 **viktorshkrivani/viktorshkrivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
