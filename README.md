@@ -6,7 +6,11 @@
   Entry-level dev who makes GitHub look insane.<br>
   Looking for an internship / co-op where I can build, automate, and grow 🚀
 </p>
-
+<p align="center">
+  <span style="background-color: yellow; color: black; padding: 4px 8px; border-radius: 6px;">
+    ⚡ This text is on a yellow background ⚡
+  </span>
+</p>
 
 <!--
 **viktorshkrivani/viktorshkrivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
