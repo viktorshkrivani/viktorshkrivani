@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Loop Demo](https://raw.githubusercontent.com/viktorshkrivani/viktorshkrivani/main/assets/loop.gif)
+![Loop Demo](assets/Infinite%20Loop%20Looping%20GIF%20by%20CmdrKitten.gif)
 
 
 <!--
