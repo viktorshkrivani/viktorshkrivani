@@ -8,7 +8,7 @@
 <br><br>
 <br><br>
 
-<p align="center">
+<p align="right">
   Entry-level dev who makes GitHub look insane.
   <small>Looking for an internship / co-op where I can build, automate, and grow 🚀</small>
 </p>
