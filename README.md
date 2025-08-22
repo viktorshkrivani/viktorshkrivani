@@ -3,9 +3,8 @@
 </p>
 <br></br>
 <br></br>
-<br></br>
 <p align="center">
-  <img src="assets/wim1.png" width="100%" />
+  <img src="assets/wim2.png" width="100%" />
 </p>
 
 <!--
