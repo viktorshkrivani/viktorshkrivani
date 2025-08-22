@@ -4,8 +4,6 @@
 <p align="center">
   <img src="assets/reles1.png" width="100%" />
 </p>
-
-<br></br>
 <p align="center">
   <img src="assets/wim2.png" width="100%" />
 </p>
