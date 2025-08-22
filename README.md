@@ -5,7 +5,7 @@
   <img src="assets/try.png" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/wim2.png" width="100%" />
+  <img src="assets/wimf.png" width="100%" />
 </p>
 
 <!--
