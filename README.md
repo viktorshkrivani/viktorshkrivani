@@ -7,6 +7,9 @@
 <p align="center">
   <img src="assets/wimf.png" width="100%" />
 </p>
+<p align="center">
+  <img src="assets/n1.png" width="100%" />
+</p>
 
 <!--
 **viktorshkrivani/viktorshkrivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
