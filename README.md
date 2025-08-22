@@ -2,7 +2,7 @@
   <img src="assets/header1.png" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/reles1.png" width="100%" />
+  <img src="assets/try.png" width="100%" />
 </p>
 <p align="center">
   <img src="assets/wim2.png" width="100%" />
