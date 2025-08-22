@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="assets/try.png" width="100%" />
-  <img src="assets/wimf.png" width="100%" />
+  <img src="assets/wim3.png" width="100%" />
    <img src="assets/nx.png" width="100%" />
 </p>
 
