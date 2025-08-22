@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-<p align="center">
-  Entry-level dev who makes GitHub look insane.<br>
+  Entry-level dev who makes GitHub look insane.<br><br>
   <small>Looking for an internship / co-op where I can build, automate, and grow 🚀</small>
-</p>
 </p>
 
 
