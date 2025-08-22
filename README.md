@@ -1,6 +1,9 @@
 <p align="center">
   <img src="assets/header1.png" width="100%" />
 </p>
+<div align="center">
+
+```bash
 # Viktor Shkrivani
 # Entry-level dev who makes GitHub look insane 🚀
 
@@ -12,7 +15,7 @@ $ skills --list
 
 $ mission
 > Looking for an internship / co-op where I can build, automate, and grow
-
+</div> ```
 
 <!--
 **viktorshkrivani/viktorshkrivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
