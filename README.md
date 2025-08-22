@@ -1,7 +1,10 @@
 <p align="center">
   <img src="assets/header1.png" width="100%" />
 </p>
-<br></br>
+<p align="center">
+  <img src="assets/roles.png" width="100%" />
+</p>
+
 <br></br>
 <p align="center">
   <img src="assets/wim2.png" width="100%" />
