@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Entry-level dev who makes GitHub look insane.<br>
-  Looking for an internship / co-op where I can build, automate, and grow 🚀
+### Entry-level dev who makes GitHub look insane.
+#### Looking for an internship / co-op where I can build, automate, and grow 🚀
 </p>
 
 
