@@ -1,9 +1,15 @@
 <p align="center">
   <img src="assets/header1.png" width="100%" />
 </p>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 <p align="center">
-  Entry-level dev who makes GitHub look insane.<br><br>
+  Entry-level dev who makes GitHub look insane.
   <small>Looking for an internship / co-op where I can build, automate, and grow 🚀</small>
 </p>
 
