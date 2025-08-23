@@ -14,9 +14,9 @@
   <a href="#">
     <img src="assets/nx.png" width="100%" />
   </a>
-  <a href="#">
     <img src="assets/project1.png" width="100%" />
-  </a>
+  <img src="assets/project1.png" width="100%" />
+  <img src="assets/project1.png" width="100%" />
 </p>
 </span>
 
