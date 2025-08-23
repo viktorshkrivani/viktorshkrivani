@@ -1,7 +1,7 @@
+<span>
 <p align="center">
   <img src="assets/headerf.png" width="100%" />
 </p>
-<span>
 <p align="center">
   <a href="#">
     <img src="assets/try.png" width="100%" />
