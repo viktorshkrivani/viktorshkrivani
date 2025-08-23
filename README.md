@@ -1,13 +1,14 @@
 <p align="center">
   <img src="assets/headerf.png" width="100%" />
 </p>
+<span>
 <p align="center">
   <img src="assets/try.png" width="100%" />
   <img src="assets/wim3.png" width="100%" />
    <img src="assets/nx.png" width="100%" />
   <img src="assets/project1.png" width="100%" />
 </p>
-
+</span>
 
 <!--
 **viktorshkrivani/viktorshkrivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
