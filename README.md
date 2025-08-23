@@ -3,10 +3,18 @@
 </p>
 <span>
 <p align="center">
-  <img src="assets/try.png" width="100%" />
-  <img src="assets/wim3.png" width="100%" />
-   <img src="assets/nx.png" width="100%" />
-  <img src="assets/project1.png" width="100%" />
+  <a href="#">
+    <img src="assets/try.png" width="100%" />
+  </a>
+  <a href="#">
+    <img src="assets/wim3.png" width="100%" />
+  </a>
+  <a href="#">
+    <img src="assets/nx.png" width="100%" />
+  </a>
+  <a href="#">
+    <img src="assets/project1.png" width="100%" />
+  </a>
 </p>
 </span>
 
