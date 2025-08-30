@@ -16,7 +16,7 @@
   </a>
     <img src="assets/scp1.png" width="100%" />
   <img src="assets/scp2.png" width="100%" />
-  <a href="https://github.com/viktorshkrivani/megateksa/tree/main">
+ <a href="https://github.com/viktorshkrivani/megateksa/tree/main">
   <img src="assets/vim.png" width="100%" />
 </a>
 </p>
