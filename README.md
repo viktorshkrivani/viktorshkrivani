@@ -14,7 +14,9 @@
   <a href="#">
     <img src="assets/nx.png" width="100%" />
   </a>
-    <img src="assets/scp1.png" width="100%" />
+    <a href="https://github.com/viktorshkrivani/V1-badadventuregame-final-justJAVA">
+  <img src="assets/scp1.png" width="100%" alt="V1 Bad Adventure Game Preview" />
+</a>
 <a href="https://github.com/viktorshkrivani/V2-whodid-SWporject">
   <img src="assets/scp2.png" width="100%" alt="Project Preview" />
 </a>
