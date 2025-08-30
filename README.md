@@ -16,7 +16,7 @@
   </a>
     <img src="assets/project1.png" width="100%" />
   <img src="assets/project1.png" width="100%" />
-  <img src="assets/project1.png" width="100%" />
+  <img src="assets/projectmegateksa.png" width="100%" />
 </p>
 </span>
 
