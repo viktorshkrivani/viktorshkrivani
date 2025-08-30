@@ -22,7 +22,7 @@
 </a>
   </a>
     <a href="https://github.com/viktorshkrivani/V1-badadventuregame-final-justJAVA">
-  <img src="assets/enp1.gif" width="100%" alt="V1 Bad Adventure Game Preview" />
+  <img src="assets/enp11.gif" width="100%" alt="V1 Bad Adventure Game Preview" />
 </a>
   </a>
     <a href="https://github.com/viktorshkrivani/V1-badadventuregame-final-justJAVA">
