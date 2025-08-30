@@ -21,7 +21,7 @@
   <img src="assets/scp2.png" width="100%" alt="Project Preview" />
 </a>
   </a>
-    <a href="https://github.com/viktorshkrivani/V1-badadventuregame-final-justJAVA">
+    <a href="https://github.com/viktorshkrivani/Engineering-ParallaxRobot">
   <img src="assets/enp11.gif" width="100%" alt="V1 Bad Adventure Game Preview" />
 </a>
   </a>
