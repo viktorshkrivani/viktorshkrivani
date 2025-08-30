@@ -15,7 +15,9 @@
     <img src="assets/nx.png" width="100%" />
   </a>
     <img src="assets/scp1.png" width="100%" />
-  <img src="assets/scp2.png" width="100%" />
+<a href="https://github.com/viktorshkrivani/V2-whodid-SWporject">
+  <img src="assets/scp2.png" width="100%" alt="Project Preview" />
+</a>
  <a href="https://github.com/viktorshkrivani/megateksa/tree/main">
   <img src="assets/vim.png" width="100%" />
 </a>
